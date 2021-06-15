@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\bin\Debug\P.I - Cadastro de Produtos.exe.config
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\bin\Debug\P.I - Cadastro de Produtos.exe
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\bin\Debug\P.I - Cadastro de Produtos.pdb
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I - Cadastro de Produtos.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I___Cadastro_de_Produtos.Form1.resources
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I___Cadastro_de_Produtos.Properties.Resources.resources
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I - Cadastro de Produtos.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I - Cadastro de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I - Cadastro de Produtos.exe
+C:\Users\Windows10\source\repos\P.I - Cadastro de Produtos\P.I - Cadastro de Produtos\obj\Debug\P.I - Cadastro de Produtos.pdb
